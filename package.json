@@ -1,0 +1,14 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "MERN eCommerce",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "author": "Nikola Porumbachanov",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
