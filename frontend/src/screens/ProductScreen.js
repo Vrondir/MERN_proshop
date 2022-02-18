@@ -16,7 +16,7 @@ function ProductScreen() {
 		}
 
 		fetchProduct()
-	}, [])
+	}, [params])
 	// const product = products.find((p) => p._id === params.id)
 
 	return (
