@@ -1,0 +1,65 @@
+[33mcommit 079b96b186f82c15b9a921d721530e1667c4322c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Nikola <nikiporumbachanov@gmail.com>
+Date:   Sat Feb 19 16:19:39 2022 +0200
+
+    connected to MongoDV
+
+[33mcommit 5f4adf9e611c484e0bd9ebf73ee5e1013f380c77[m
+Author: Nikola <nikiporumbachanov@gmail.com>
+Date:   Fri Feb 18 22:23:48 2022 +0200
+
+    add env and import syntax to backend
+
+[33mcommit 4c16f13433f66e32c9606983495ed45b998d8bb1[m
+Author: Nikola <nikiporumbachanov@gmail.com>
+Date:   Fri Feb 18 20:56:42 2022 +0200
+
+    add hooks for products
+
+[33mcommit a7193b47b47c4ee1f4abf7753bc8224abf570cf7[m
+Author: Nikola <nikiporumbachanov@gmail.com>
+Date:   Fri Feb 18 19:44:58 2022 +0200
+
+    add backend
+
+[33mcommit 795c1036e653eb159d032c76bc8b39461f9c3f79[m
+Author: Nikola <nikiporumbachanov@gmail.com>
+Date:   Fri Feb 18 19:43:05 2022 +0200
+
+    add backend
+
+[33mcommit 5b8f3129c5acd4b023ea6a800b822ae051b495d4[m
+Author: Nikola <nikiporumbachanov@gmail.com>
+Date:   Fri Feb 18 15:29:49 2022 +0200
+
+    ProductScreen styling
+
+[33mcommit c21a6a75981e2c619268dfc1f88a0988424fa36b[m
+Author: Nikola <nikiporumbachanov@gmail.com>
+Date:   Mon Feb 14 23:02:11 2022 +0200
+
+    add routs
+
+[33mcommit 43554deb45a6c9dac204d0e1eb25c0037858549c[m
+Author: Nikola <nikiporumbachanov@gmail.com>
+Date:   Mon Feb 14 20:49:37 2022 +0200
+
+    some changes
+
+[33mcommit fb9583c62e256afefbd6b1ebe759eb78608d37ab[m
+Author: Nikola <nikiporumbachanov@gmail.com>
+Date:   Mon Feb 7 18:07:14 2022 +0200
+
+    Add products
+
+[33mcommit 9fa809dcd2bb1227b7ce3a8c5f5215a8d978fdb7[m
+Author: Nikola <nikiporumbachanov@gmail.com>
+Date:   Mon Feb 7 17:22:32 2022 +0200
+
+    add bootstrap & minor styling
+
+[33mcommit 0662459586445ca6af27c25d0ee8cb3c9390f24b[m
+Author: Nikola <nikiporumbachanov@gmail.com>
+Date:   Sat Feb 5 19:03:58 2022 +0200
+
+    React setup
